@@ -1,7 +1,7 @@
 
 # RSpec: Writing Maintainable Test Suites
 
-Welcome to Lesson 24! In this lesson, we're going to get *seriously* opinionated about how to keep your RSpec test suite clean, maintainable, and effective as your Rails app grows. We'll cover best practices for test organization, naming, avoiding over-mocking, testing behavior (not implementation), keeping your suite fast, and making your tests a joy for your future self (and teammates) to work with. If you know Ruby and Rails but are new to automated testing, this is your roadmap to a healthy, long-lived test suite. We'll explain everything in multiple ways, with code, anti-patterns, and reflection prompts. Let's get your test garden thriving!
+In this lesson, we're going to get *seriously* opinionated about how to keep your RSpec test suite clean, maintainable, and effective as your Rails app grows. We'll cover best practices for test organization, naming, avoiding over-mocking, testing behavior (not implementation), keeping your suite fast, and making your tests a joy for your future self (and teammates) to work with. If you know Ruby and Rails but are new to automated testing, this is your roadmap to a healthy, long-lived test suite. We'll explain everything in multiple ways, with code, anti-patterns, and reflection prompts. Let's get your test garden thriving!
 
 ---
 
